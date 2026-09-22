@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="920e1b4f-eeb0-4a21-9d91-01726fa8a2d1" name="Changes" comment="creato primo progetto">
-      <change afterPath="$PROJECT_DIR$/primo_progetto/.env.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo_progetto/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo_progetto/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo_progetto/db-data/load.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo_progetto/db-init/01_schema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo_progetto/db-init/02_seed.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo_progetto/docker-compose.override.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo_progetto/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo_progetto/docs/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo_progetto/www/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo_progetto/www/conf/config.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo_progetto/www/public/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo_progetto/www/public/css/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo_progetto/www/public/img/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo_progetto/www/public/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo_progetto/www/public/js/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo_progetto/www/src/Controller/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo_progetto/www/src/Model/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo_progetto/www/src/Util/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo_progetto/www/templates/.gitkeep" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="920e1b4f-eeb0-4a21-9d91-01726fa8a2d1" name="Changes" comment="creato primo progetto" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,8 +72,17 @@
       <workItem from="1789464704984" duration="384000" />
       <workItem from="1789465178908" duration="658000" />
       <workItem from="1789808692385" duration="1643000" />
-      <workItem from="1789811003213" duration="301000" />
+      <workItem from="1789811003213" duration="420000" />
     </task>
+    <task id="LOCAL-00001" summary="creato primo progetto">
+      <option name="closed" value="true" />
+      <created>1789811405865</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1789811405866</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
