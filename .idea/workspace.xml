@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="920e1b4f-eeb0-4a21-9d91-01726fa8a2d1" name="Changes" comment="creato primo progetto">
-      <change afterPath="$PROJECT_DIR$/primo_progetto/www/public/hello-world.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo_progetto/www/public/hello-world.php" afterDir="false" />
+    <list default="true" id="920e1b4f-eeb0-4a21-9d91-01726fa8a2d1" name="Changes" comment="prima pagina html e php">
+      <change afterPath="$PROJECT_DIR$/primo_progetto/www/public/tabellinadel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo_progetto/www/public/tavolaPitagorica.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primo_progetto/www/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/primo_progetto/www/public/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,20 +48,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/78377244/Documents/GitHub/docker-quinta/primo_progetto",
-    "node.js.detected.package.jshint": "true",
-    "node.js.selected.package.jshint": "",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/78377244/Documents/GitHub/docker-quinta/primo_progetto&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\78377244\Documents\GitHub\docker-quinta\primo_progetto" />
@@ -92,7 +91,8 @@
       <workItem from="1789465178908" duration="658000" />
       <workItem from="1789808692385" duration="1643000" />
       <workItem from="1789811003213" duration="420000" />
-      <workItem from="1790066408704" duration="3628000" />
+      <workItem from="1790066408704" duration="3907000" />
+      <workItem from="1791018307527" duration="2223000" />
     </task>
     <task id="LOCAL-00001" summary="creato primo progetto">
       <option name="closed" value="true" />
@@ -102,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1789811405866</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="prima pagina html e php">
+      <option name="closed" value="true" />
+      <created>1790070140788</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1790070140789</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +118,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="creato primo progetto" />
-    <option name="LAST_COMMIT_MESSAGE" value="creato primo progetto" />
+    <MESSAGE value="prima pagina html e php" />
+    <option name="LAST_COMMIT_MESSAGE" value="prima pagina html e php" />
   </component>
 </project>
