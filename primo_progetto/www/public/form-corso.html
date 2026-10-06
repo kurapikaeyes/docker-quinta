@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Form Corso Lingua</title>
+</head>
+<body>
+<h2>Richiesta corsi di lingua</h2>
+
+<form action="form-corso.php" method="post">
+    <label for="cognome">Cognome:</label>
+    <input type="text" name="cognome" id="cognome">
+
+    <br><br>
+
+    <label for="nome">Nome:</label>
+    <input type="text" name="nome" id="nome">
+
+    <br><br>
+
+    <label for="email">Email:</label>
+    <input type="email" name="email" id="email">
+
+    <br><br>
+
+    <label for="corso">Corso di lingua:</label>
+    <select id="corso" name="corso">
+        <option value="inglese">Inglese</option>
+        <option value="francese">Francese</option>
+        <option value="tedesco">Tedesco</option>
+    </select>
+
+    <br><br>
+
+    <label for="livello">Livello:</label>
+    <div id="livello">
+        <input type="radio" id="basso" value="basso" name="basso">
+        <label for="basso">Basso</label>
+
+        <input type="radio" id="intermedio" value="intermedio" name="intermedio">
+        <label for="intermedio">Intermedio</label>
+
+        <input type="radio" id="avanzato" value="avanzato" name="avanzato">
+        <label for="avanzato">Avanzato</label>
+    </div>
+
+    <br><br>
+
+    <label for="orario">Preferenza Orario:</label>
+    <div id="orario">
+        <input type="checkbox" id="mattino" name="mattino" value="mattino">
+        <label for="mattino">Mattino</label>
+
+        <input type="checkbox" id="pomeriggio" name="pomeriggio" value="pomeriggio">
+        <label for="pomeriggio">Pomeriggio</label>
+
+        <input type="checkbox" id="sera" name="sera" value="sera">
+        <label for="sera">Sera</label>
+    </div>
+
+    <br><br>
+
+    <label for="richieste">Altre richieste:</label>
+    <textarea id="richieste" name="richieste" rows="5" cols="40"></textarea>
+
+    <br><br>
+
+    <button type="reset">Reset</button>
+    <button type="submit">Invia</button>
+</form>
+</body>
+</html>
