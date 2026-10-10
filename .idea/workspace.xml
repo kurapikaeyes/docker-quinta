@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="920e1b4f-eeb0-4a21-9d91-01726fa8a2d1" name="Changes" comment="Tavola Pitagorica e la tabella con valore inserito">
-      <change afterPath="$PROJECT_DIR$/primo_progetto/www/public/form-corso.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo_progetto/www/public/progetti/area-riservata/controllo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo_progetto/www/public/progetti/area-riservata/login.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primo_progetto/www/public/form-corso.html" beforeDir="false" afterPath="$PROJECT_DIR$/primo_progetto/www/public/progetti/form-corso/form-corso.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primo_progetto/www/public/hello-world.html" beforeDir="false" afterPath="$PROJECT_DIR$/primo_progetto/www/public/progetti/hello-world/hello-world.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primo_progetto/www/public/hello-world.php" beforeDir="false" afterPath="$PROJECT_DIR$/primo_progetto/www/public/progetti/hello-world/hello-world.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primo_progetto/www/public/tabellinadel.php" beforeDir="false" afterPath="$PROJECT_DIR$/primo_progetto/www/public/progetti/tabella-pitagorica/tabellinadel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primo_progetto/www/public/tavolaPitagorica.php" beforeDir="false" afterPath="$PROJECT_DIR$/primo_progetto/www/public/progetti/tabella-pitagorica/tavolaPitagorica.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,20 +53,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/78377244/Documents/GitHub/docker-quinta/primo_progetto/www/public",
-    "node.js.detected.package.jshint": "true",
-    "node.js.selected.package.jshint": "",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/78377244/Documents/GitHub/docker-quinta/primo_progetto/www/public&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\78377244\Documents\GitHub\docker-quinta\primo_progetto\www\public" />
@@ -68,7 +74,11 @@
       <recent name="C:\Users\78377244\Documents\GitHub\docker-quinta" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\78377244\Documents\GitHub\docker-quinta\primo_progetto\www\public" />
+      <recent name="C:\Users\78377244\Documents\GitHub\docker-quinta\primo_progetto\www\public\progetti" />
+      <recent name="C:\Users\78377244\Documents\GitHub\docker-quinta\primo_progetto\www\public\tabella-pitagorica" />
+      <recent name="C:\Users\78377244\Documents\GitHub\docker-quinta\primo_progetto\www\public\form-corso" />
+      <recent name="C:\Users\78377244\Documents\GitHub\docker-quinta\primo_progetto\www\public\hello-world" />
+      <recent name="C:\Users\78377244\Documents\GitHub\docker-quinta\primo_progetto\www\public\area-riservata" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -94,7 +104,9 @@
       <workItem from="1790066408704" duration="3907000" />
       <workItem from="1791018307527" duration="2612000" />
       <workItem from="1791274077297" duration="9000" />
-      <workItem from="1791274256454" duration="5788000" />
+      <workItem from="1791274256454" duration="5974000" />
+      <workItem from="1791623001792" duration="1108000" />
+      <workItem from="1791624236213" duration="1451000" />
     </task>
     <task id="LOCAL-00001" summary="creato primo progetto">
       <option name="closed" value="true" />
@@ -120,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791020642578</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Tavola Pitagorica e la tabella con valore inserito">
+      <option name="closed" value="true" />
+      <created>1791280228764</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1791280228764</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
