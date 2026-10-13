@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="920e1b4f-eeb0-4a21-9d91-01726fa8a2d1" name="Changes" comment="Tavola Pitagorica e la tabella con valore inserito">
-      <change afterPath="$PROJECT_DIR$/primo_progetto/www/public/progetti/area-riservata/controllo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primo_progetto/www/public/progetti/area-riservata/login.php" afterDir="false" />
+    <list default="true" id="920e1b4f-eeb0-4a21-9d91-01726fa8a2d1" name="Changes" comment="area-riservata inizio di progetto">
+      <change afterPath="$PROJECT_DIR$/primo_progetto/www/public/progetti/area-riservata/area_riservata.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primo_progetto/www/public/form-corso.html" beforeDir="false" afterPath="$PROJECT_DIR$/primo_progetto/www/public/progetti/form-corso/form-corso.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primo_progetto/www/public/hello-world.html" beforeDir="false" afterPath="$PROJECT_DIR$/primo_progetto/www/public/progetti/hello-world/hello-world.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primo_progetto/www/public/hello-world.php" beforeDir="false" afterPath="$PROJECT_DIR$/primo_progetto/www/public/progetti/hello-world/hello-world.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primo_progetto/www/public/tabellinadel.php" beforeDir="false" afterPath="$PROJECT_DIR$/primo_progetto/www/public/progetti/tabella-pitagorica/tabellinadel.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primo_progetto/www/public/tavolaPitagorica.php" beforeDir="false" afterPath="$PROJECT_DIR$/primo_progetto/www/public/progetti/tabella-pitagorica/tavolaPitagorica.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primo_progetto/www/public/progetti/area-riservata/controllo.php" beforeDir="false" afterPath="$PROJECT_DIR$/primo_progetto/www/public/progetti/area-riservata/controllo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/primo_progetto/www/public/progetti/area-riservata/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/primo_progetto/www/public/progetti/area-riservata/login.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +102,8 @@
       <workItem from="1791274077297" duration="9000" />
       <workItem from="1791274256454" duration="5974000" />
       <workItem from="1791623001792" duration="1108000" />
-      <workItem from="1791624236213" duration="1451000" />
+      <workItem from="1791624236213" duration="1724000" />
+      <workItem from="1791878987096" duration="5764000" />
     </task>
     <task id="LOCAL-00001" summary="creato primo progetto">
       <option name="closed" value="true" />
@@ -140,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791280228764</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="area-riservata inizio di progetto">
+      <option name="closed" value="true" />
+      <created>1791625948756</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1791625948756</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,6 +155,7 @@
     <MESSAGE value="creato primo progetto" />
     <MESSAGE value="prima pagina html e php" />
     <MESSAGE value="Tavola Pitagorica e la tabella con valore inserito" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tavola Pitagorica e la tabella con valore inserito" />
+    <MESSAGE value="area-riservata inizio di progetto" />
+    <option name="LAST_COMMIT_MESSAGE" value="area-riservata inizio di progetto" />
   </component>
 </project>

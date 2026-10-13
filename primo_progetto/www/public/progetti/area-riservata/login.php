@@ -9,21 +9,16 @@
     <form action="controllo.php" method="POST">
         <p>
             <label for="username">Username:</label>
-            <input type="text" id="username">
+            <input type="text" id="username" name="username">
         </p>
 
         <p>
             <label for="password">Password:</label>
-            <input type="password" id="password">
+            <input type="password" id="password" name="password">
         </p>
 
-        <button>Accedi</button>
+        <button type="submit">Accedi</button>
     </form>
-
-    <?php
-
-    ?>
-
 </body>
 </html>
 
