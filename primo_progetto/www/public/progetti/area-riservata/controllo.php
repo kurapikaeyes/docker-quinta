@@ -6,8 +6,8 @@ $errore = false;
 
 if(strlen($password)<8){
     $errore = true;
-    echo "Inserzione sbagliata!";
-    echo "\nLa password deve contenere almeno 8 simboli";
+    echo "<p>Inserzione sbagliata!</p>";
+    echo "<p>La password deve contenere almeno 8 simboli</p>";
 }
 
 $maiuscola_trovata = false;
@@ -23,22 +23,22 @@ for($i = 0; $i<strlen($password); $i++){
 
 if(!$maiuscola_trovata){
     if(!$errore){
-        echo "Inserzione sbagliata!";
-        echo "\nLa password deve contenere almeno una MAIUSCOLA";
+        echo "<p>Inserzione sbagliata!</p>";
+        echo "<p>La password deve contenere almeno una MAIUSCOLA</p>";
         $errore = true;
     }
     else{
-        echo "\nLa password deve contenere almeno una MAIUSCOLA";
+        echo "<p>La password deve contenere almeno una MAIUSCOLA</p>";
     }
 }
 if(!$cifra_trovata){
     if(!$errore){
-        echo "Inserzione sbagliata!";
-        echo "\nLa password deve contenere almeno una cifra";
+        echo "<p>Inserzione sbagliata!</p>";
+        echo "<p>La password deve contenere almeno una cifra</p>";
         $errore = true;
     }
     else{
-        echo "\nLa password deve contenere almeno una cifra";
+        echo "<p>La password deve contenere almeno una cifra</p>";
     }
 }
 

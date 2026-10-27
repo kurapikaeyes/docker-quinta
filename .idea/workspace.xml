@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="920e1b4f-eeb0-4a21-9d91-01726fa8a2d1" name="Changes" comment="area-riservata inizio di progetto">
-      <change afterPath="$PROJECT_DIR$/primo_progetto/www/public/progetti/area-riservata/area_riservata.php" afterDir="false" />
+    <list default="true" id="920e1b4f-eeb0-4a21-9d91-01726fa8a2d1" name="Changes" comment="area-riservata proseguimento del progetto">
+      <change afterPath="$PROJECT_DIR$/primo_progetto/www/public/verifica_ottobre/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/primo_progetto/www/public/verifica_ottobre/spedizione.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/primo_progetto/www/public/progetti/area-riservata/controllo.php" beforeDir="false" afterPath="$PROJECT_DIR$/primo_progetto/www/public/progetti/area-riservata/controllo.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/primo_progetto/www/public/progetti/area-riservata/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/primo_progetto/www/public/progetti/area-riservata/login.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +103,12 @@
       <workItem from="1791274256454" duration="5974000" />
       <workItem from="1791623001792" duration="1108000" />
       <workItem from="1791624236213" duration="1724000" />
-      <workItem from="1791878987096" duration="5764000" />
+      <workItem from="1791878987096" duration="5898000" />
+      <workItem from="1792228050303" duration="602000" />
+      <workItem from="1792228751104" duration="1795000" />
+      <workItem from="1792486193724" duration="2143000" />
+      <workItem from="1792834523789" duration="782000" />
+      <workItem from="1793092119924" duration="6095000" />
     </task>
     <task id="LOCAL-00001" summary="creato primo progetto">
       <option name="closed" value="true" />
@@ -145,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791625948756</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="area-riservata proseguimento del progetto">
+      <option name="closed" value="true" />
+      <created>1791884865835</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1791884865835</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +169,7 @@
     <MESSAGE value="prima pagina html e php" />
     <MESSAGE value="Tavola Pitagorica e la tabella con valore inserito" />
     <MESSAGE value="area-riservata inizio di progetto" />
-    <option name="LAST_COMMIT_MESSAGE" value="area-riservata inizio di progetto" />
+    <MESSAGE value="area-riservata proseguimento del progetto" />
+    <option name="LAST_COMMIT_MESSAGE" value="area-riservata proseguimento del progetto" />
   </component>
 </project>
